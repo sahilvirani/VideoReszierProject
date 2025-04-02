@@ -3,7 +3,7 @@
 This project is a video processing app that takes two video URLs as input, appends them together, scales the output to 50% width while maintaining the aspect ratio, and provides a preview of the processed video.
 
 ## Tech Stack
-React (frontend) and Node + Express(backend)
+React + CSS (frontend) and Node + Express(backend)
 
 ## Tools Used
 Front End:
