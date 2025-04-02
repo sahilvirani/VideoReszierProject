@@ -17,6 +17,32 @@ Express,
 FFmpeg,
 CORS
 ---
+
+## How To Run The App
+**Step 1: Clone the Repository and cd into workspace**:
+```bash
+git clone https://github.com/sahilvirani/VideoReszierProject.git
+
+cd VideoReszierProject
+```
+
+**Step 2: Launch Backend**:
+```bash
+npm install
+
+node server.js
+```
+**Step 3: Launch Frontend**:
+```bash
+cd client
+
+npm install
+
+npm start
+
+```
+Will be available on http://localhost:3000
+
 ## AI Used
 ### Frontend
 **ChatGPT**:
